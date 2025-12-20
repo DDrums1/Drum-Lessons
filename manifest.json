@@ -1,7 +1,7 @@
 {
-  "name": "VDO.Ninja",
-  "short_name": "VDO.Ninja",
-  "description": "Bring live video from your smartphone, computer, or friends directly into your Studio. 100% free.",
+  "name": "DDrums",
+  "short_name": "DDrums",
+  "description": "Уроки игры на барабанах по видеосзязи в любой точке Мира +79608354338 Дмитрий Оруджов",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -28,4 +28,5 @@
       "purpose": "any monochrome"
     }
   ]
+
 }
